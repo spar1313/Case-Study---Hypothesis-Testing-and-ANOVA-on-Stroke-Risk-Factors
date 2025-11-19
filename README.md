@@ -1,1 +1,1 @@
-# Case-Study---Hypothesis-Testing-and-ANOVA-on-Stroke-Risk-Factor
+# Case-Study---Hypothesis-Testing-and-ANOVA-on-Stroke-Risk-Factors
